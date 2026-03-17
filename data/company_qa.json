@@ -1,0 +1,349 @@
+[
+ 
+  {
+    "question": "Registration not working",
+    "answer": "Check if your mobile is registered in prison records"
+  },
+  {
+    "question": "OTP not received",
+    "answer": "Wait 1 minute and request again"
+  },
+  {
+    "question": "Mobile number not accepted",
+    "answer": "Only registered visitor numbers allowed"
+  },
+  {
+    "question": "Can I change mobile number",
+    "answer": "Contact prison administration"
+  },
+
+  {
+    "question": "Cannot login",
+    "answer": "Check mobile number and password"
+  },
+  {
+    "question": "Forgot password",
+    "answer": "Use forgot password option"
+  },
+  {
+    "question": "OTP not coming during login",
+    "answer": "Check network and retry"
+  },
+  {
+    "question": "Login error",
+    "answer": "Clear browser cache"
+  },
+
+  {
+    "question": "How to deposit money",
+    "answer": "Login → Select prison → Enter prisoner number → Pay"
+  },
+  {
+    "question": "Minimum deposit amount",
+    "answer": "₹100"
+  },
+  {
+    "question": "Maximum deposit amount",
+    "answer": "Depends on prison rules"
+  },
+  {
+    "question": "Which payment methods are supported",
+    "answer": "UPI, card, netbanking"
+  },
+  {
+    "question": "Money not received by prisoner",
+    "answer": "Contact prison authority"
+  },
+  {
+    "question": "Payment failed",
+    "answer": "Retry after few minutes"
+  },
+  {
+    "question": "Money deducted but payment failed",
+    "answer": "Refund within 3 – 5 days"
+  },
+  {
+    "question": "Payment pending",
+    "answer": "Wait for payment confirmation"
+  },
+
+  {
+    "question": "Refund time",
+    "answer": "3 – 5 working days"
+  },
+  {
+    "question": "Refund not received",
+    "answer": "Contact bank"
+  },
+
+  {
+    "question": "How to check transaction",
+    "answer": "Login → Transaction History"
+  },
+  {
+    "question": "Transaction failed",
+    "answer": "Retry payment"
+  },
+
+  {
+    "question": "Contact support",
+    "answer": "Email or helpline"
+  },
+  {
+    "question": "How to file complaint",
+    "answer": "Submit support ticket"
+  },
+  {
+    "question": "Support response time",
+    "answer": "24 – 48 hours"
+  },
+  {
+    "question": "What is CDService?",
+    "answer": "CDService (cdservice.in) is an online platform that provides commissary deposit services for prisons. It allows family members and relatives to deposit money into the accounts of inmates in various state prisons across India."
+  },
+  {
+    "question": "What does CD Service do?",
+    "answer": "CD Service provides online commissary deposit and mulakat (visitation) payment services for prisons in India, enabling users to send money to prisoners digitally without visiting the jail."
+  },
+  {
+    "question": "What is the website for CD Service?",
+    "answer": "The official website is www.cdservice.in"
+  },
+  {
+    "question": "Which states are supported by CDService?",
+    "answer": "CDService supports prisons in the following states: Haryana, Himachal Pradesh, Karnataka, Odisha (Orissa), Punjab, Rajasthan, and Uttar Pradesh."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Haryana?",
+    "answer": "Yes, CDService supports Haryana Prisons. You can select Haryana from the state selection page on cdservice.in to make a deposit."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Uttar Pradesh?",
+    "answer": "Yes, CDService supports Uttar Pradesh Prisons. Select Uttar Pradesh from the state list on cdservice.in to proceed with your deposit."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Punjab?",
+    "answer": "Yes, Punjab Prisons are supported on CDService. Select Punjab from the homepage to make a payment."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Rajasthan?",
+    "answer": "Yes, Rajasthan Prisons are listed on CDService. Choose Rajasthan from the state selection page to deposit money."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Karnataka?",
+    "answer": "Yes, Karnataka Prisons are supported on CDService. Select Karnataka from the homepage to proceed."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Himachal Pradesh?",
+    "answer": "Yes, Himachal Pradesh Prisons are available on CDService. Select Himachal Pradesh from the state list to make a deposit."
+  },
+  {
+    "question": "Can I deposit money for a prisoner in Odisha?",
+    "answer": "Yes, Odisha (Orissa) Prisons are supported on CDService. Select Odisha from the homepage to make a payment."
+  },
+  {
+    "question": "How do I start a payment on CDService?",
+    "answer": "To start a payment, go to www.cdservice.in, choose the state of the prison where the inmate is lodged, and follow the steps to enter inmate details and complete the deposit."
+  },
+  {
+    "question": "How do I select a state for payment?",
+    "answer": "On the CDService homepage, you will see a list of supported states with their prison logos. Click on the state corresponding to the prison where the inmate is held to begin the payment process."
+  },
+  {
+    "question": "What is mulakat?",
+    "answer": "Mulakat refers to visitation or meeting sessions with inmates in prison. CDService facilitates online mulakat deposit payments, allowing family members to book or pay for inmate visitation services online."
+  },
+  {
+    "question": "What is commissary deposit?",
+    "answer": "A commissary deposit is money deposited into a prisoner's account so they can purchase approved items like food, toiletries, and other essentials from the prison's commissary (store)."
+  },
+  {
+    "question": "Can I send money to a prisoner online?",
+    "answer": "Yes, CDService.in allows you to send money to prisoners online. Simply visit the website, choose the state, enter the inmate details, and complete the payment digitally."
+  },
+  {
+    "question": "Is CDService available as a mobile app?",
+    "answer": "Yes, CDService can be installed as a Progressive Web App (PWA). When you visit the site, you will see an option to install it as an application on your device, which will open in its own window."
+  },
+  {
+    "question": "How to install CDService as an app?",
+    "answer": "Visit www.cdservice.in on your mobile browser. You will see an 'Install' prompt at the top of the page. Tap Install and CDService will be added to your home screen as an app."
+  },
+  {
+    "question": "Is there an app for CDService?",
+    "answer": "Yes, CDService can be installed as an app directly from the website. It is a Progressive Web App (PWA) that integrates safely with your device's OS features."
+  },
+  {
+    "question": "What is the full form of CD in CDService?",
+    "answer": "CD in CDService stands for Commissary Deposit, which is the service of depositing money into a prisoner's account."
+  },
+  {
+    "question": "How to pay jail commissary online?",
+    "answer": "Visit cdservice.in, select the state of the prison, enter the required inmate details, choose a payment method, and complete the transaction to deposit jail commissary online."
+  },
+  {
+    "question": "What are the terms and conditions of CDService?",
+    "answer": "CDService has terms and conditions that govern the use of the platform. You can read them by clicking the 'Term & Condition' link available at the bottom of the CDService homepage."
+  },
+  {
+    "question": "How do I contact CDService?",
+    "answer": "You can reach CDService by clicking the 'Contact Us' link on the website at cdservice.in/Home/Contactus."
+  },
+  {
+    "question": "Where can I find the About Us page of CDService?",
+    "answer": "The About Us page is available at cdservice.in/Home/About/about-us and provides details about the CDService platform and its mission."
+  },
+  {
+    "question": "Is CDService an official government website?",
+    "answer": "CDService.in is a service platform integrated with state prison departments in India to facilitate online commissary and mulakat deposits. It works in association with official prison authorities."
+  },
+  {
+    "question": "What happens if the CDService website is down?",
+    "answer": "CDService may occasionally go down for scheduled server maintenance. Alerts are displayed on the homepage in both English and Hindi informing users of maintenance windows and expected downtime duration."
+  },
+  {
+    "question": "Will I be notified about CDService maintenance?",
+    "answer": "Yes, CDService posts alerts on its homepage in English and Hindi to inform customers about planned server maintenance, including the exact start and end times of the downtime."
+  },
+  {
+    "question": "In which languages does CDService provide information?",
+    "answer": "CDService provides information in English as well as regional languages including Hindi, Punjabi, Kannada, and Odia, depending on the state selected."
+  },
+  {
+    "question": "What is the Haryana jail deposit service?",
+    "answer": "CDService provides an online deposit service for Haryana Prisons, allowing families to send money to inmates in Haryana jails without physically visiting the prison."
+  },
+  {
+    "question": "How to deposit money in UP jail?",
+    "answer": "Visit cdservice.in, click on 'Uttar Pradesh Prisons', and follow the instructions to enter inmate details and complete the commissary deposit for any UP jail."
+  },
+  {
+    "question": "How to deposit money in Punjab jail?",
+    "answer": "Go to cdservice.in, select 'Punjab Prisons', fill in the required inmate information, and complete the payment to deposit money in any Punjab jail."
+  },
+  {
+    "question": "How to deposit money in Rajasthan jail?",
+    "answer": "Visit cdservice.in, select 'Rajasthan Prisons' from the homepage, enter the inmate's details, and complete the transaction to deposit money."
+  },
+  {
+    "question": "How to deposit money in Karnataka jail?",
+    "answer": "Visit cdservice.in, click on 'Karnataka Prisons', provide the inmate details, and complete the payment to deposit money in Karnataka jails."
+  },
+  {
+    "question": "How to deposit money in Himachal Pradesh jail?",
+    "answer": "Go to cdservice.in, select 'Himachal Pradesh Prisons', enter the inmate's information, and proceed with the payment to deposit funds."
+  },
+  {
+    "question": "How to deposit money in Odisha jail?",
+    "answer": "Visit cdservice.in, click on 'Odisha (Orissa) Prisons', fill in the inmate details, and complete the payment to transfer money to Odisha jails."
+  },
+  {
+    "question": "Is CDService free to use?",
+    "answer": "CDService provides online deposit services; while the platform itself facilitates payments, any applicable service charges or transaction fees would be mentioned during the payment process."
+  },
+  {
+    "question": "Can I send money to a family member in jail using CDService?",
+    "answer": "Yes, CDService is designed for family members and relatives to send commissary deposit money to their loved ones lodged in supported state prisons across India."
+  },
+  {
+    "question": "What details are needed to make a deposit?",
+    "answer": "To make a deposit, you typically need the inmate's name, their prisoner ID or registration number, the name of the jail, and a valid payment method. The exact details may vary by state."
+  },
+  {
+    "question": "Is it safe to pay through CDService?",
+    "answer": "CDService is integrated with prison departments and is designed to be safe. The app also states that it integrates safely with your device's OS features."
+  },
+  {
+    "question": "What payment methods does CDService accept?",
+    "answer": "CDService is an online payment platform and supports digital payment methods. The exact payment options (such as UPI, debit/credit cards, net banking) are presented during the checkout process."
+  },
+  {
+    "question": "Can I use CDService on a computer?",
+    "answer": "Yes, CDService can be used on any device with a web browser, including computers, laptops, tablets, and smartphones by visiting www.cdservice.in."
+  },
+  {
+    "question": "What is online mulakat deposit?",
+    "answer": "Online mulakat deposit is a feature of CDService that allows family members to make payments related to prisoner visitation (mulakat) services online, without having to go to the prison in person."
+  },
+  {
+    "question": "What is the URL of CDService contact page?",
+    "answer": "The contact page is available at https://www.cdservice.in/Home/Contactus"
+  },
+  {
+    "question": "What is the URL of CDService terms and conditions?",
+    "answer": "The terms and conditions page is available at https://www.cdservice.in/Home/About/term-condition"
+  },
+  {
+    "question": "Does CDService support Bihar prisons?",
+    "answer": "As of the current information on cdservice.in, Bihar is not listed among the supported states. The supported states are Haryana, Himachal Pradesh, Karnataka, Odisha, Punjab, Rajasthan, and Uttar Pradesh."
+  },
+  {
+    "question": "Does CDService support Delhi prisons?",
+    "answer": "Delhi is not listed among the currently supported states on cdservice.in. You may check the website directly for any updates on newly added states."
+  },
+  {
+    "question": "How many states does CDService cover?",
+    "answer": "CDService currently covers 7 states: Haryana, Himachal Pradesh, Karnataka, Odisha (Orissa), Punjab, Rajasthan, and Uttar Pradesh."
+  },
+  {
+    "question": "What is the purpose of CDService?",
+    "answer": "The purpose of CDService is to provide a convenient, digital way for families to deposit commissary money and make mulakat (visitation) payments for their incarcerated relatives in Indian state prisons."
+  },
+  {
+    "question": "What does prisons commissary deposit services mean?",
+    "answer": "Prisons commissary deposit services refer to online facilities that allow family members to deposit money into an inmate's prison account, which the inmate can then use to purchase items from the prison's canteen or commissary."
+  },
+  {
+    "question": "Can I track my deposit on CDService?",
+    "answer": "CDService provides payment services for prison deposits. For tracking or confirmation of a specific transaction, it is recommended to use the transaction reference number provided after payment or contact CDService support."
+  },
+  {
+    "question": "What if my payment fails on CDService?",
+    "answer": "If your payment fails on CDService, check your bank statement to confirm if the amount was debited. If it was debited but not credited, contact CDService through the Contact Us page for resolution."
+  },
+  {
+    "question": "Is CDService available 24/7?",
+    "answer": "CDService is generally available online 24/7, but may be temporarily unavailable during scheduled server maintenance. Maintenance alerts are posted on the homepage with the exact downtime window."
+  },
+  {
+    "question": "How to make online mulakat payment?",
+    "answer": "To make an online mulakat payment, visit cdservice.in, choose the state of the prison, follow the mulakat deposit steps, enter the required inmate and visitor details, and complete the payment online."
+  },
+   {
+    "question": "How to deposit money into a prisoner's account",
+    "answer": "Register using the registered mobile number, login to the portal, select the prisoner and make payment."
+  },
+  {
+    "question": "How can I deposit money online for a prisoner",
+    "answer": "You need to register with the registered mobile number, login and select the prisoner to make the payment."
+  },
+  {
+    "question": "What is the process to deposit money into detainee account",
+    "answer": "First register using your mobile number, verify OTP, login to the system and select the prisoner to deposit money."
+  },
+  {
+    "question": "How to register for prisoner payment",
+    "answer": "Register using the registered mobile number used during the prison visit."
+  },
+  {
+    "question": "How to activate the account for prisoner payment",
+    "answer": "Activate the account using the OTP sent to the registered mobile number."
+  },
+  {
+    "question": "How to login for prisoner payment",
+    "answer": "Login using your registered mobile number and password."
+  },
+  {
+    "question": "Where can I find payment to prisoner option",
+    "answer": "Go to your profile page and click on the 'Payment to Prisoner' option."
+  },
+  {
+    "question": "How to select prisoner for payment",
+    "answer": "Click on the 'Pay Now' button next to the prisoner's name."
+  },
+  {
+    "question": "How to enter deposit amount",
+    "answer": "Enter the amount you want to deposit and continue with the payment process."
+  }
+
+]
