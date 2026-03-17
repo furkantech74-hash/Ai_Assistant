@@ -4,6 +4,7 @@ from app.services.vector_db_service import search_vector
 
 router = APIRouter()
 
+
 @router.post("/ask")
 def ask_question(question: str):
 
@@ -23,3 +24,6 @@ def ask_question(question: str):
         "answer": result["answer"],
         "similarity_score": float(distance)
     }
+
+
+    

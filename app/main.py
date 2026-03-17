@@ -9,6 +9,10 @@ app = FastAPI()
 
 load_data()
 
+@app.get("/")
+def home():
+    return {"status": "running"}
+
 # app.include_router(router)
 app.include_router(upload_router) #Data upload and training
 
